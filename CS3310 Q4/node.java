@@ -1,4 +1,6 @@
-
+//Tomes, Christopher
+//node.java
+//10/21/2020
 
 
 public class node {
