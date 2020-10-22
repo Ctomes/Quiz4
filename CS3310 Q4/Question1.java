@@ -1,3 +1,6 @@
+//Tomes, Christopher
+//Question1.java
+//10/21/2020
 import java.util.Random;
 
 public class Question1 {
